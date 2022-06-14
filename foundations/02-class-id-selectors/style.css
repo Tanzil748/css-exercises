@@ -1,0 +1,19 @@
+.class {
+    background-color: rgb(255, 0, 179);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second_line {
+    color:rgb(24, 24, 232);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#fourth_line {
+    background-color: rgb(72, 120, 72);
+    font-size: 24px;
+    font-weight: bold;
+}
